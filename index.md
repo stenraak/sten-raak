@@ -6,7 +6,7 @@
 
 [Project 1 Title](/sample_page)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/network.png?raw=true"/>
 
 ---
 
