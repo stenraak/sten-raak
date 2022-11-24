@@ -4,7 +4,7 @@
 
 ### Visualizing the relationships in the book "The Witcher: Blood of Elves"
 
-[Project 1 Title](/sample_page)
+[The Witcher: Blood of Elves network](/sample_page)
 
 <img src="images/network.png?raw=true"/>
 
