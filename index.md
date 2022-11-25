@@ -2,11 +2,11 @@
 
 ---
 
-### Visualizing the relationships in the book "The Witcher: Blood of Elves"
+### Visualizing the relationships in the book "Metro 2033"
 
-[The Witcher: Blood of Elves network](/sample_page)
+[Metro 2033 network visualization](/sample_page)
 
-<img src="images/network.png?raw=true"/>
+<img src="images/Image 25.11.2022 at 21.46.jpeg?raw=true"/>
 
 ---
 
